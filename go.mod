@@ -1,3 +1,3 @@
-module code.byted.org/daixiongyi/demo2
+module github.com/clouddxy/demo2
 
 go 1.18
