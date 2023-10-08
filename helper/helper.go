@@ -1,7 +1,11 @@
 package helper
 
+import (
+	"github.com/clouddxy/demo5/helper"
+)
+
 func Add(a, b int) int {
-	return a + b
+	return helper.AddDemo5(a, b)
 }
 
 func AddInt64(a, b int64) int64 {
